@@ -72,12 +72,15 @@ The dataset contains four tables covering customer profiles, payment cards, tran
 
 ## 5. Dashboard Structure
 
-| Dashboard Page | Analytical Focus |
-|---|---|
-| **Banking Overview** | Key KPIs, transaction trends, spending, and payment errors |
-| **Customer Segmentation** | Customer demographics, income, spending behavior, and growth potential |
-| **Merchant Performance** | Merchant and regional transaction activity, payment methods, and error rates |
-| **Credit Risk Analysis** | Credit scores, debt burden, and customer risk indicators |
+
+## Dashboard Structure
+
+| Dashboard Page | Business Question | Key KPIs |
+|---|---|---|
+| **1. Overview** | How is the bank performing overall? | Total Transactions, Gross Spending, Refunds, Error Rate |
+| **2. Customer Analysis** | Who are the bank's high-potential customers? | Total Customers, Income, Spending, Credit Score |
+| **3. Merchant Performance** | Which merchants or regions are underperforming? | Total Transactions, Transaction Volume, Error Rate |
+| **4. Credit Risk Analysis** | Which customer segments have the highest credit risk? | Outstanding Debt, Credit Score, Debt-to-Income Proxy |
 
 ## 6. Project Status
 
