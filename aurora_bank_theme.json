@@ -1,0 +1,43 @@
+{
+  "name": "Aurora Bank - Modern Purple",
+  "dataColors": [
+    "#8064A2",
+    "#3D2C5E",
+    "#E5AD32",
+    "#4B83C4",
+    "#319B91",
+    "#D66B91",
+    "#348568",
+    "#D65353",
+    "#A99BC4",
+    "#8C8798"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#302541",
+  "tableAccent": "#8064A2",
+  "good": "#348568",
+  "neutral": "#E5AD32",
+  "bad": "#D65353",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 30,
+      "color": "#302541"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14,
+      "color": "#302541"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#302541"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 11,
+      "color": "#5E586B"
+    }
+  }
+}
