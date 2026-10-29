@@ -162,32 +162,3 @@ Customers with high debt relative to income or lower credit scores may warrant a
 | **Fluctuating transaction error rate:** The error rate varies between approximately 1.62% and 1.86%, with no sustained downward trend. | Analyze error rates by payment method, merchant, and transaction period to identify and address the main contributors. |
 | **Concentrated payment activity:** Spending is concentrated across major card brands, payment methods, and selected merchant categories. | Monitor high-volume channels and merchants, and evaluate their transaction success rates and processing costs. |
 | **Uneven debt exposure:** Outstanding debt varies across income and credit score segments, with some customers carrying substantial debt relative to income. | Combine debt, income, and credit score indicators to identify segments for further review. Incorporate repayment history and delinquency data to strengthen risk assessment. |
-
-## 7. Data Quality & Interpretation Considerations
-
-- **KPI consistency:** Reconcile Total Debt, Average Debt per Customer, customer counts, and Active Customer Rate to ensure that the measures use consistent filters and populations.
-- **Chart-title alignment:** The merchant scatter plot should directly display Error Rate if the objective is to identify merchants with high error rates. Otherwise, its title should reflect its current measures.
-- **Metric definitions:** Document the calculation and interpretation of DTY Proxy, Low Credit Score Rate, and Active Customer Rate.
-- **Credit risk limitations:** Without delinquency or default labels, credit score and debt patterns are indicators for further review, not evidence of actual defaults.
-- **Descriptive versus causal findings:** The dashboard highlights patterns and relationships but does not, by itself, establish why those patterns occur.
-
-## 8. Project Status
-
-**Status: Dashboard developed; validation and documentation refinement remain.**
-
-- [x] Data ingestion
-- [x] SQL data cleaning
-- [x] Business understanding and problem definition
-- [x] Dashboard development and visualization
-- [x] Initial business insights and recommendations
-- [ ] Validate KPI definitions and reconcile measures
-- [ ] Review chart titles, filters, and metric calculations
-- [ ] Finalize project documentation and portfolio presentation
-
-## 9. Conclusion
-
-The Aurora Bank dashboard consolidates customer, payment, merchant, and credit information into four analytical views.
-
-The initial analysis highlights opportunities to investigate customer activity, monitor transaction errors, understand spending concentration across payment channels and merchants, and examine outstanding debt across customer segments.
-
-The next step is to validate key measures and deepen the analysis with transaction error details and credit repayment outcomes where available. This will help distinguish descriptive patterns from actionable operational findings and support more reliable business decisions.
