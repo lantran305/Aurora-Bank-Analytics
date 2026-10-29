@@ -8,12 +8,6 @@ Aurora Bank is an interactive banking analytics project designed to support data
 
 The dashboard integrates customer profiles, card information, transaction activity, and merchant categories to help management understand business performance, identify customer segments for further analysis, investigate payment issues, and monitor potential credit risk indicators.
 
-### Business Objectives
-
-- **Customer Analysis:** Understand customer activity, spending behavior, and differences across age and income segments.
-- **Payment Performance:** Monitor transaction volume, spending, refunds, and error rates across card types, payment methods, merchant categories, and locations.
-- **Credit Risk Analysis:** Explore outstanding debt in relation to income and credit score to identify customer segments that may require further assessment.
-
 ## 2. Business Understanding — Design Thinking
 
 ### Phase 1 — Empathize | Stakeholder Analysis
@@ -22,13 +16,12 @@ The dashboard integrates customer profiles, card information, transaction activi
 
 | Key Question | Stakeholder Perspective |
 |---|---|
-| Who will view this dashboard? | The Head of Retail Banking, responsible for overseeing customer growth, card transaction performance, and retail credit portfolio quality. |
+| Who will view this dashboard? | The **Head of Retail Banking**, responsible for overseeing customer growth, card transaction performance, and retail credit portfolio quality. |
 | What problem does this dashboard solve? | Provides a consolidated view of customer segments, transaction performance, and credit risk indicators to identify growth opportunities and areas requiring further investigation. |
 | When and where will the dashboard be used? | During weekly performance reviews, monthly management meetings, and strategic planning sessions, primarily through Power BI on a work computer. |
 | Why does this problem need to be solved? | To support sustainable business growth through improved customer engagement, payment performance monitoring, and early identification of potential credit risk concerns. |
 | How does the stakeholder make decisions? | Uses a data-driven, exception-based approach to monitor KPIs, compare performance across segments, investigate anomalies, and prioritize actions based on business impact. |
 
-*Note: The stakeholder profile and usage scenarios are assumptions developed for this portfolio project, not findings from actual stakeholder interviews.*
 
 ### Phase 2 — Define | Problem Definition
 
@@ -39,13 +32,6 @@ Limited consolidated visibility into customer potential, payment performance, an
 **Problem Statement**
 
 > How might we help the Head of Retail Banking identify customer growth opportunities, improve payment performance, and monitor credit risk indicators to support sustainable business growth?
-
-### Success Criteria
-
-- Identify customer segments with distinct spending and activity patterns.
-- Highlight merchant categories, merchants, and payment channels requiring further investigation.
-- Identify customer groups with potentially concerning debt and credit score patterns.
-- Translate dashboard findings into actionable business recommendations.
 
 ## 3. Dataset Overview
 
