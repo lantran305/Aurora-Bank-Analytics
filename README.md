@@ -52,7 +52,7 @@ Debt, income, credit score, and DTY Proxy patterns should be treated as signals 
 
 ## 4. Data Processing & Technical Workflow
 
-![alt text](image-4.png)
+![alt text](image.png)
 
 ## 5. Dashboard Structure & Business Insights
 
@@ -67,7 +67,7 @@ The dashboard consists of four pages, each designed to answer a specific busines
 
 ### 5.1 Overview — Banking Performance
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 **Key Findings**
 
@@ -85,7 +85,7 @@ High transaction volume or spending does not automatically imply higher profitab
 
 ### 5.2 Customer Segmentation — Customer Behavior & Engagement
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 **Key Findings**
 
@@ -103,7 +103,7 @@ The reported active customer rate suggests an opportunity to investigate inactiv
 
 ### 5.3 Merchant Performance — Payment Activity & Merchant Concentration
 
-![alt text](image-2.png)
+![alt text](image-3.png)
 
 **Key Findings**
 
@@ -123,7 +123,7 @@ High spending alone does not establish that a merchant is profitable or operatio
 
 ### 5.4 Credit Risk — Debt Exposure & Credit Score
 
-![alt text](image-3.png)
+![alt text](image-4.png)
 
 **Key Findings**
 
